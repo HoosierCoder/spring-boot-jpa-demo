@@ -13,7 +13,7 @@ Spring Boot REST API for the baseball roster including all CRUD operations
 
 The project schema
 
-![](/attachments/project_schema.png)
+![](attachments/project_schema.png)
 
 The SQL script for creating the schema in a local MySQL DB can be found in the attachments folder.
 
